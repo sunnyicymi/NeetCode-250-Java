@@ -45,8 +45,11 @@ I’ll be updating my progress.md daily with my thoughts on each problem I solve
 
 🔗 Connect With Me
 🌐 Portfolio: https://portfolio.stacknforge.com
+
 📄 Resume: https://drive.google.com/file/d/1VekbYMq9QpN76uDs6GlOQ4yzd96Xj8PE/view?usp=drive_link
+
 💼 LinkedIn: https://linkedin.com/in/sunnyicymi
+
 📂 GitHub: https://github.com/sunnyicymi
 
 🌍 How You Can Support
