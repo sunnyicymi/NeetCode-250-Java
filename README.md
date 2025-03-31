@@ -16,13 +16,21 @@ I've decided to share my struggles, solutions, and progress here so that anyone 
 
 📦 NeetCode-250-Java
 │── 📁 day_0
+
 │── 📁 day_1
+
 │── 📁 day_2
+
 │── 📁 day_3
+
 │── 📁 day_4
+
 │── 📁 day_5
+
 │── 📁 day_6
+
 │── 📁 day_7
+
 │── README.md
 
 
