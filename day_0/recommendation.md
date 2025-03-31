@@ -1,8 +1,7 @@
-# Progress Report
-
 # Day 0
 
 DSA Mastery - Prerequisites & Core Skills
+
 Before diving into Data Structures and Algorithms (DSA), it's crucial to build a strong foundation in core concepts. This document outlines essential topics to master before solving complex DSA problems.
 
 This covers 45+ foundational topics needed to effectively tackle DSA problems.
