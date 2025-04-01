@@ -39,7 +39,7 @@ class SolutionPattern{
 
 
         // call solution 1
-        s1_print_my_name("Sunny_Kumar");
+        s1_solution("Sunny_Kumar");
 
         // call solution 2
 
@@ -52,22 +52,22 @@ class SolutionPattern{
 
     
     // build solution 1 : Simple Brute Force
-    static void s1_print_my_name(String name) {
+    static void s1_solution(String name) {
         System.out.println("Printing your name: " + name);
     }
 
     // build solution 2 : Optimized Brute Force
-    static void s2_print_my_name(String name){
+    static void s2_solution(String name){
         System.out.println("Printing your name: " + name);
     }
 
     // build solution 3 : Unconvensional Solution 
-    static void s3_print_my_name(String name){
+    static void s3_solution(String name){
         System.out.println("Printing your name: " + name);
     }
 
     // build solution 4 : Best Solution
-    static void s4_print_my_name(String name){
+    static void s4_solution(String name){
         System.out.println("Printing your name: " + name);
     }
 }
